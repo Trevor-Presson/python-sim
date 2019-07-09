@@ -1,0 +1,2 @@
+Running,Energy,5
+Shower,Hygiene,4

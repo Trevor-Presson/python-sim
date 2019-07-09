@@ -1,0 +1,40 @@
+-Activities
+Receive income weekly 
+Pay bills 
+Check needs and perform activities (which take time or expend energy)
+Recuperate energy (or pass time)
+
+-Objects 
+Family - Collection of Persons and defined role within the family 
+Property - Owned 
+Relationship - 
+Jobs - 
+Activities - Benefits 
+
+-Ideas 
+"Attributes" for each character 
+"Needs" to expend 
+
+-Lists needed 
+Names 
+Jobs w/ income 
+Activities w/ attribute bonus 
+
+-Needs 
+
+
+-Notes 
+Creating a person I need to add them to a family 
+Person in family checks for car... the car should be associated with the family. 
+***Car is attached to a single person. Person would check if they have car... if not use familyid to check if any cars exist or are in use and use those 
+***
+***Want to try and 
+
+
+
+
+A while loop with 365 days. The function calls take in a list of people 
+
+
+Create 10 People Objects and add to list 
+Each day iterate through list 
